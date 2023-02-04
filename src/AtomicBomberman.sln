@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic.SoundConverter", "Atomic.SoundConverter\Atomic.SoundConverter.csproj", "{14943B48-73FA-4452-89AA-62BB2D561B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic.SoundConverter.Tests", "Atomic.SoundConverter.Tests\Atomic.SoundConverter.Tests.csproj", "{0255FE5C-6DF9-4928-9B35-CB0EB62AD143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14943B48-73FA-4452-89AA-62BB2D561B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14943B48-73FA-4452-89AA-62BB2D561B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14943B48-73FA-4452-89AA-62BB2D561B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14943B48-73FA-4452-89AA-62BB2D561B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0255FE5C-6DF9-4928-9B35-CB0EB62AD143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0255FE5C-6DF9-4928-9B35-CB0EB62AD143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0255FE5C-6DF9-4928-9B35-CB0EB62AD143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0255FE5C-6DF9-4928-9B35-CB0EB62AD143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
